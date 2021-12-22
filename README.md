@@ -1,7 +1,7 @@
-# Blockchain-AdsAdserver
-#### The world's most popular free, open source ad serving system
+# Blockchain-Ads Adserver
+#### The first web3.0, ad serving system
 
-**Blockchain-Ads Adserveris an open source ad serving tool** that enables publishers to:
+**Blockchain-Ads Adserver is an open source ad serving tool** that enables publishers to:
 
 * Serve ads on their websites;
 
@@ -34,5 +34,4 @@ Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 ------------------------------------------------------------------------
 
 This product uses GeoLite2 data created by MaxMind, available from the 
-https://www.maxmind.com/ website. See also:
-https://www.revive-adserver.com/blog/new-geotargeting-plugin-in-revive-adserver-v5-an-overview/
+https://www.maxmind.com/ website. 
